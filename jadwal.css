@@ -22,3 +22,17 @@ a {
 a:hover {
     color: aqua;
 }
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.table {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border-collapse: collapse;
+}
