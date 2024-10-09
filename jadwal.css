@@ -31,8 +31,23 @@ h1 {
 .table {
     display: flex;
     justify-content: center;
+    margin-top: 20px;
 }
 
 table {
     border-collapse: collapse;
+    width: 700px;
+}
+
+th {
+    width: 1000px;
+}
+
+tr {
+    width: 1000px;
+}
+
+td {
+    width: 1000px;
+    text-align: center;
 }
