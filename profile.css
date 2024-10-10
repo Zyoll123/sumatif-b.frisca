@@ -47,6 +47,15 @@ hr {
     justify-content: center;
 }
 
+.biodata-container {
+    display: flex;
+    justify-content: center;
+}
+
+.biodata {
+    padding: 15px;
+}
+
 .biodata h2{
     text-align: center;
 }
@@ -56,6 +65,10 @@ hr {
     margin-right: 3px;
     margin-left: 100px;
     font-family: "Roboto", sans-serif; 
+}
+
+.deskripsi {
+    padding: 20px;
 }
 
 .deskripsi h2 {
